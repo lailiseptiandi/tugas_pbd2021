@@ -1,4 +1,4 @@
-Buatlah database dengan nama pbd-belajar kemudian tambahkan table mahasiswa dengan field dibawah ini :
+Buatlah database dengan nama workshop kemudian tambahkan table mahasiswa dengan field dibawah ini :
 
 1. id (int) -> 11
 2. nim (varchar)-> 20
