@@ -9,5 +9,14 @@ Buatlah database dengan nama pbd-belajar kemudian tambahkan table mahasiswa deng
 7. phone (varchar) -> 20
 
 
+# Edit config.php di dalam folder config
+
+cari http://localhost/nama_folder/index.php lalu ubah nama_folder sesuai dengan nama projek kalian
+
+
+# Lalu jalankan project di browser :
+
+http://localhost/nama_folder/index.php/pendaftaran
+
 
 

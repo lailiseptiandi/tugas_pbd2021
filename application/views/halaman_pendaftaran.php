@@ -90,6 +90,7 @@
                         $(".phone-error").html(data.phone);
                         $(".name-error").html(data.name);
                     } else {
+                        $("#simpan").load('<?= base_url('Pendaftaran/getAll/'); ?>');
                         $("#nim").val("");
                         $("#name").val("");
                         $("#username").val("");
@@ -99,7 +100,6 @@
                     }
                 }
             })
-            $("#simpan").load('<?= base_url('Pendaftaran/getAll/'); ?>');
         })
     </script>
 </body>
